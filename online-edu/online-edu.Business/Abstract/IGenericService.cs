@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace online_edu.Business.Abstact
+namespace online_edu.Business.Abstract
 {
 	public interface IGenericService<T> where T : class
 	{

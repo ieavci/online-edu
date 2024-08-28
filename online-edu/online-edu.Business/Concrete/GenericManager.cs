@@ -5,12 +5,12 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using online_edu.Business.Abstact;
+using online_edu.Business.Abstract;
 using online_edu.DataAccess.Abstract;
 using online_edu.DataAccess.Context;
 
 namespace online_edu.Business.Concrete
-{
+{ // IGenericService arayüzünün somut bir implementasyonunu (uygulamasını) sağlar.
 	public class GenericManager<T>(IRepository<T> _repository) : IGenericService<T> where T : class
 	{
 

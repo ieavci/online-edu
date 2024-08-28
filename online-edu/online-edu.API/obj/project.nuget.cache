@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5Am9XiTO62Dg9br3ZoKTFoH6ke0a+rkSZC4yjRaxBEjTJVRSyT7mLo+Kg+oLU6OJUVVAH/WHn5xEOPh6HkOCgQ==",
+  "dgSpecHash": "yRlMlYyeUjzC7EJBJlIKVKchCxWeY424wxAdptK7ozqzii/x19N2J1uQQSRgdOZiA+bmYlJOa+5sKSewgn9gog==",
   "success": true,
   "projectFilePath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.API\\online-edu.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\iavcc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\iavcc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\iavcc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\iavcc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

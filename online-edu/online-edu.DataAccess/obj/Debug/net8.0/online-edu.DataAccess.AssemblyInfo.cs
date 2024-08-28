@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("online-edu.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd888c17ad917853df183e448aa1d61c85c9b773")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+783261b16120deafb9c66be2bd0f9d39157c83e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("online-edu.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("online-edu.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
