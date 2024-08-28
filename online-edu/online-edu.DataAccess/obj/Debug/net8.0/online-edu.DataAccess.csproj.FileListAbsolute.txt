@@ -1,0 +1,16 @@
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\bin\Debug\net8.0\online-edu.DataAccess.deps.json
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\bin\Debug\net8.0\online-edu.DataAccess.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\bin\Debug\net8.0\online-edu.DataAccess.pdb
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\bin\Debug\net8.0\online-edu.Entity.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\bin\Debug\net8.0\online-edu.Entity.pdb
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\obj\Debug\net8.0\online-edu.DataAccess.csproj.AssemblyReference.cache
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\obj\Debug\net8.0\online-edu.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\obj\Debug\net8.0\online-edu.DataAccess.AssemblyInfoInputs.cache
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\obj\Debug\net8.0\online-edu.DataAccess.AssemblyInfo.cs
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\obj\Debug\net8.0\online-edu.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\obj\Debug\net8.0\online-edu.DataAccess.sourcelink.json
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\obj\Debug\net8.0\online-e.59E245D0.Up2Date
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\obj\Debug\net8.0\online-edu.DataAccess.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\obj\Debug\net8.0\refint\online-edu.DataAccess.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\obj\Debug\net8.0\online-edu.DataAccess.pdb
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DataAccess\obj\Debug\net8.0\ref\online-edu.DataAccess.dll

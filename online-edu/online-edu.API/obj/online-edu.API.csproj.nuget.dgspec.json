@@ -27,7 +27,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Business\\online-edu.Business.csproj": {
+                "projectPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Business\\online-edu.Business.csproj"
+              },
+              "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\online-edu.DTO.csproj": {
+                "projectPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\online-edu.DTO.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -45,6 +52,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -65,6 +78,280 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Business\\online-edu.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Business\\online-edu.Business.csproj",
+        "projectName": "online-edu.Business",
+        "projectPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Business\\online-edu.Business.csproj",
+        "packagesPath": "C:\\Users\\iavcc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iavcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DataAccess\\online-edu.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DataAccess\\online-edu.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DataAccess\\online-edu.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DataAccess\\online-edu.DataAccess.csproj",
+        "projectName": "online-edu.DataAccess",
+        "projectPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DataAccess\\online-edu.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\iavcc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iavcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Entity\\online-edu.Entity.csproj": {
+                "projectPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Entity\\online-edu.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\online-edu.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\online-edu.DTO.csproj",
+        "projectName": "online-edu.DTO",
+        "projectPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\online-edu.DTO.csproj",
+        "packagesPath": "C:\\Users\\iavcc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iavcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Entity\\online-edu.Entity.csproj": {
+                "projectPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Entity\\online-edu.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Entity\\online-edu.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Entity\\online-edu.Entity.csproj",
+        "projectName": "online-edu.Entity",
+        "projectPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Entity\\online-edu.Entity.csproj",
+        "packagesPath": "C:\\Users\\iavcc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iavcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -1,0 +1,16 @@
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\bin\Debug\net8.0\online-edu.DTO.deps.json
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\bin\Debug\net8.0\online-edu.DTO.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\bin\Debug\net8.0\online-edu.DTO.pdb
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\bin\Debug\net8.0\online-edu.Entity.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\bin\Debug\net8.0\online-edu.Entity.pdb
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\obj\Debug\net8.0\online-edu.DTO.csproj.AssemblyReference.cache
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\obj\Debug\net8.0\online-edu.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\obj\Debug\net8.0\online-edu.DTO.AssemblyInfoInputs.cache
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\obj\Debug\net8.0\online-edu.DTO.AssemblyInfo.cs
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\obj\Debug\net8.0\online-edu.DTO.csproj.CoreCompileInputs.cache
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\obj\Debug\net8.0\online-edu.DTO.sourcelink.json
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\obj\Debug\net8.0\online-e.D0CC79FC.Up2Date
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\obj\Debug\net8.0\online-edu.DTO.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\obj\Debug\net8.0\refint\online-edu.DTO.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\obj\Debug\net8.0\online-edu.DTO.pdb
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.DTO\obj\Debug\net8.0\ref\online-edu.DTO.dll

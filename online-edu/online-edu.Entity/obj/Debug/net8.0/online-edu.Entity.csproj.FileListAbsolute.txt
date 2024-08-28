@@ -1,0 +1,15 @@
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\bin\Debug\net8.0\online-edu.Entity.deps.json
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\bin\Debug\net8.0\online-edu.Entity.runtimeconfig.json
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\bin\Debug\net8.0\online-edu.Entity.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\bin\Debug\net8.0\online-edu.Entity.pdb
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\obj\Debug\net8.0\online-edu.Entity.csproj.AssemblyReference.cache
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\obj\Debug\net8.0\online-edu.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\obj\Debug\net8.0\online-edu.Entity.AssemblyInfoInputs.cache
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\obj\Debug\net8.0\online-edu.Entity.AssemblyInfo.cs
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\obj\Debug\net8.0\online-edu.Entity.csproj.CoreCompileInputs.cache
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\obj\Debug\net8.0\online-edu.Entity.sourcelink.json
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\obj\Debug\net8.0\online-edu.Entity.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\obj\Debug\net8.0\refint\online-edu.Entity.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\obj\Debug\net8.0\online-edu.Entity.pdb
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\obj\Debug\net8.0\online-edu.Entity.genruntimeconfig.cache
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.Entity\obj\Debug\net8.0\ref\online-edu.Entity.dll
