@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{711034EB-FE66-4214-BE72-EA389A91D538}|online-edu.API\\online-edu.API.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.api\\controllers\\socialmediascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{711034EB-FE66-4214-BE72-EA389A91D538}|online-edu.API\\online-edu.API.csproj|solutionrelative:online-edu.api\\controllers\\socialmediascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{711034EB-FE66-4214-BE72-EA389A91D538}|online-edu.API\\online-edu.API.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.api\\controllers\\subscriberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711034EB-FE66-4214-BE72-EA389A91D538}|online-edu.API\\online-edu.API.csproj|solutionrelative:online-edu.api\\controllers\\subscriberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SocialMediasController.cs",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.API\\Controllers\\SocialMediasController.cs",
-              "RelativeDocumentMoniker": "online-edu.API\\Controllers\\SocialMediasController.cs",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.API\\Controllers\\SocialMediasController.cs",
-              "RelativeToolTip": "online-edu.API\\Controllers\\SocialMediasController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAuwCUAAAADAAAA",
+              "Title": "SubscribersController.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.API\\Controllers\\SubscribersController.cs",
+              "RelativeDocumentMoniker": "online-edu.API\\Controllers\\SubscribersController.cs",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.API\\Controllers\\SubscribersController.cs",
+              "RelativeToolTip": "online-edu.API\\Controllers\\SubscribersController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T11:34:03.346Z",
+              "WhenOpened": "2024-09-03T11:47:47.994Z",
               "EditorCaption": ""
             }
           ]
