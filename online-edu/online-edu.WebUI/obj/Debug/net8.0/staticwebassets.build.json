@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e2HtMxafNGe5KOaC8kJZ9MB+0C0FsvSeGjP2oyM+xrY=",
+  "Hash": "sjxG+nbiK1/bGnQJH0znr82Hul/y0T7J7ksYezIDg+k=",
   "Source": "online-edu.WebUI",
   "BasePath": "_content/online-edu.WebUI",
   "Mode": "Default",
@@ -1193,25 +1193,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\wwwroot\\matrix-admin-master.zip",
-      "SourceId": "online-edu.WebUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\wwwroot\\",
-      "BasePath": "_content/online-edu.WebUI",
-      "RelativePath": "matrix-admin-master.zip",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\matrix-admin-master.zip"
     },
     {
       "Identity": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\wwwroot\\matrix-admin-master\\assets\\extra-libs\\calendar\\calendar.css",

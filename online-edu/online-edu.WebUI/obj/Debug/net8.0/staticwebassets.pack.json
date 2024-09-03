@@ -245,10 +245,6 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\wwwroot\\matrix-admin-master.zip",
-      "PackagePath": "staticwebassets\\matrix-admin-master.zip"
-    },
-    {
       "Id": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\wwwroot\\matrix-admin-master\\assets\\extra-libs\\DataTables\\DataTables-1.10.16\\css\\dataTables.bootstrap.css",
       "PackagePath": "staticwebassets\\matrix-admin-master\\assets\\extra-libs\\DataTables\\DataTables-1.10.16\\css\\dataTables.bootstrap.css"
     },
