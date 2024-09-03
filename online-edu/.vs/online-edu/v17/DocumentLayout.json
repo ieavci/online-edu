@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60159AA0-FCB4-42CB-B014-FF6BC9C91141}|online-edu.DTO\\online-edu.DTO.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.dto\\dtos\\coursecategorydtos\\updatecoursecategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60159AA0-FCB4-42CB-B014-FF6BC9C91141}|online-edu.DTO\\online-edu.DTO.csproj|solutionrelative:online-edu.dto\\dtos\\coursecategorydtos\\updatecoursecategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60159AA0-FCB4-42CB-B014-FF6BC9C91141}|online-edu.DTO\\online-edu.DTO.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.dto\\dtos\\coursedtos\\resultcoursedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60159AA0-FCB4-42CB-B014-FF6BC9C91141}|online-edu.DTO\\online-edu.DTO.csproj|solutionrelative:online-edu.dto\\dtos\\coursedtos\\resultcoursedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60159AA0-FCB4-42CB-B014-FF6BC9C91141}|online-edu.DTO\\online-edu.DTO.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.dto\\dtos\\coursedtos\\updatecoursedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60159AA0-FCB4-42CB-B014-FF6BC9C91141}|online-edu.DTO\\online-edu.DTO.csproj|solutionrelative:online-edu.dto\\dtos\\coursedtos\\updatecoursedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60159AA0-FCB4-42CB-B014-FF6BC9C91141}|online-edu.DTO\\online-edu.DTO.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.dto\\dtos\\coursedtos\\createcoursedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60159AA0-FCB4-42CB-B014-FF6BC9C91141}|online-edu.DTO\\online-edu.DTO.csproj|solutionrelative:online-edu.dto\\dtos\\coursedtos\\createcoursedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DataAccess\\Migrations\\20240903104944_mig_change_courseCategoryId_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:online-edu.DataAccess\\Migrations\\20240903104944_mig_change_courseCategoryId_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833D5F4F-46A3-40C7-B30D-B44F18E94609}|online-edu.Entity\\online-edu.Entity.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.entity\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833D5F4F-46A3-40C7-B30D-B44F18E94609}|online-edu.Entity\\online-edu.Entity.csproj|solutionrelative:online-edu.entity\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateCourseCategoryDtos.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\DTOs\\CourseCategoryDtos\\UpdateCourseCategoryDtos.cs",
+              "RelativeDocumentMoniker": "online-edu.DTO\\DTOs\\CourseCategoryDtos\\UpdateCourseCategoryDtos.cs",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\DTOs\\CourseCategoryDtos\\UpdateCourseCategoryDtos.cs",
+              "RelativeToolTip": "online-edu.DTO\\DTOs\\CourseCategoryDtos\\UpdateCourseCategoryDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:51:32.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultCourseDtos.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\DTOs\\CourseDtos\\ResultCourseDtos.cs",
+              "RelativeDocumentMoniker": "online-edu.DTO\\DTOs\\CourseDtos\\ResultCourseDtos.cs",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\DTOs\\CourseDtos\\ResultCourseDtos.cs",
+              "RelativeToolTip": "online-edu.DTO\\DTOs\\CourseDtos\\ResultCourseDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:51:26.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCourseDtos.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\DTOs\\CourseDtos\\CreateCourseDtos.cs",
+              "RelativeDocumentMoniker": "online-edu.DTO\\DTOs\\CourseDtos\\CreateCourseDtos.cs",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\DTOs\\CourseDtos\\CreateCourseDtos.cs",
+              "RelativeToolTip": "online-edu.DTO\\DTOs\\CourseDtos\\CreateCourseDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:51:19.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCourseDtos.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\DTOs\\CourseDtos\\UpdateCourseDtos.cs",
+              "RelativeDocumentMoniker": "online-edu.DTO\\DTOs\\CourseDtos\\UpdateCourseDtos.cs",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DTO\\DTOs\\CourseDtos\\UpdateCourseDtos.cs",
+              "RelativeToolTip": "online-edu.DTO\\DTOs\\CourseDtos\\UpdateCourseDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:51:09.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240903104944_mig_change_courseCategoryId_entity.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DataAccess\\Migrations\\20240903104944_mig_change_courseCategoryId_entity.cs",
+              "RelativeDocumentMoniker": "online-edu.DataAccess\\Migrations\\20240903104944_mig_change_courseCategoryId_entity.cs",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.DataAccess\\Migrations\\20240903104944_mig_change_courseCategoryId_entity.cs",
+              "RelativeToolTip": "online-edu.DataAccess\\Migrations\\20240903104944_mig_change_courseCategoryId_entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:49:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Entity\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "online-edu.Entity\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.Entity\\Entities\\Course.cs",
+              "RelativeToolTip": "online-edu.Entity\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:48:14.035Z",
+              "EditorCaption": ""
             }
           ]
         }
