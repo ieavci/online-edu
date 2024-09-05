@@ -6,17 +6,19 @@
 @{
 	int count = 0;
 }
-
+<div class="py-3">
+	<a asp-action="CreateAbout" asp-area="Admin" asp-controller="About" class="btn btn-primary">Add New</a>
+</div>
 <table class="table table-hover">
 	<tr>
 		<th>#</th>
-		<th>Resim 1</th>
-		<th>Resim 2</th>
-		<th>Açıklama</th>
-		<th>Madde 1</th>
-		<th>Madde 2</th>
-		<th>Madde 3</th>
-		<th>Madde 4</th>
+		<th>Image 1</th>
+		<th>Image 2</th>
+		<th>Description</th>
+		<th>Item 1</th>
+		<th>Item 2</th>
+		<th>Item 3</th>
+		<th>Item 4</th>
 		<th>Actions</th>
 	</tr>
 	@foreach (var item in Model)
@@ -32,17 +34,13 @@
 			<td>@item.Item3</td>
 			<td>@item.Item4</td>
 			<td>
-				@{
-					/*burada delete about actionuna dikkat et*/
-				}
-				<a asp-action="DeleteAbout" asp-controller="About" asp-area="Admin" class="btn btn-outline-danger">Sil</a>
-				<a asp-action="UpdateAbout" asp-controller="About" asp-area="Admin" class="btn btn-outline-info">Güncelle</a>
+				
+				<a asp-action="DeleteAbout" asp-route-id="@item.AboutId" asp-controller="About" asp-area="Admin" class="btn btn-outline-danger">Delete</a>
+				<a asp-action="UpdateAbout" asp-route-id="@item.AboutId" asp-controller="About" asp-area="Admin" class="btn btn-outline-info">Update</a>
 
 			</td>
 		</tr>
 	}
 </table>
 
-			<div>
-				<a asp-action="CreateAbout" asp-area="Admin" asp-controller="About" class="btn btn-primary">Yeni Ekle</a>
-			</div>
+			

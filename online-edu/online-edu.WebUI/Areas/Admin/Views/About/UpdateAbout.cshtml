@@ -1,0 +1,81 @@
+﻿@model UpdateAboutDto
+@{
+    ViewData["Title"] = "Update About";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container">
+	<div class="row justify-content-center">
+		<div class="col-12">
+			<form method="post">
+				<input type="hidden" asp-for="AboutId"/>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Description: </label>
+					</div>
+					<div class="col-md-10">
+						<textarea asp-for="Description" class="form-control" rows="5">@Model.Description</textarea>
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Image URL 1: </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" name="ImageUrl1" asp-for="ImageUrl1" class="form-control" />
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Image URL 2: </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" name="ImageUrl2" asp-for="ImageUrl2" class="form-control" />
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Item 1: </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" name="Item1" asp-for="Item1" class="form-control" />
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Item 2: </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" name="Item2" asp-for="Item2" class="form-control" />
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Item 3: </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" name="Item3" asp-for="Item3" class="form-control" />
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Item 4: </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" name="Item4" asp-for="Item4" class="form-control" />
+					</div>
+				</div>
+				<div class="form-row mb-3 justify-content-center py-5">
+					<div class="col-md-6 d-flex">
+						<a class="class= btn btn-secondary w-100" href="/admin/about/index">Back List</a>
+					</div>
+					<div class="col-md-6 d-flex">
+						<button class="btn btn-primary w-100">Save</button>
+					</div>
+				</div>
+
+			</form>
+		</div>
+	</div>
+</div>
+
