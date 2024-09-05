@@ -1,0 +1,41 @@
+﻿@model UpdateBannerDto
+@{
+    ViewData["Title"] = "UpdateBanner";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container">
+	<div class="row justify-content-center">
+		<div class="col-12">
+			<form method="post">
+				<input type="hidden" asp-for="BannerId" />
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Title: </label>
+					</div>
+					<div class="col-md-10">
+						<input asp-for="Title" class="form-control" rows="5"></input>
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Image URL : </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text"  asp-for="ImageUrl" class="form-control" />
+					</div>
+				</div>
+
+				<div class="form-row mb-3 justify-content-center py-5">
+					<div class="col-md-6 d-flex">
+						<a class="class= btn btn-secondary w-100" href="/Admin/Banner/Index">Back List</a>
+					</div>
+					<div class="col-md-6 d-flex">
+						<button class="btn btn-primary w-100">Save</button>
+					</div>
+				</div>
+
+			</form>
+		</div>
+	</div>
+</div>

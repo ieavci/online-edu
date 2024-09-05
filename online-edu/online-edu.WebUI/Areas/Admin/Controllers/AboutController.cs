@@ -34,7 +34,7 @@ namespace online_edu.WebUI.Areas.Admin.Controllers
 			return RedirectToAction(nameof(Index));
 		}
 
-		
+
 		public async Task<IActionResult> UpdateAbout(int id)
 		{
 			var values = await _client.GetFromJsonAsync<UpdateAboutDto>($"abouts/{id}");

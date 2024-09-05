@@ -1,0 +1,57 @@
+﻿@model UpdateContactDtos
+@{
+    ViewData["Title"] = "UpdateContact";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container">
+	<div class="row justify-content-center">
+		<div class="col-12">
+			<form method="post">
+				<input type="hidden" asp-for="ContactId"  />
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Map Url : </label>
+					</div>
+					<div class="col-md-10">
+						<input asp-for="MapUrl" class="form-control" rows="5"></input>
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Address : </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" asp-for="Address" class="form-control" />
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Phone : </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" asp-for="Phone" class="form-control" />
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Email : </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" asp-for="Email" class="form-control" />
+					</div>
+				</div>
+
+				<div class="form-row mb-3 justify-content-center py-5">
+					<div class="col-md-6 d-flex">
+						<a class="class= btn btn-secondary w-100" href="/Admin/Contact/Index">Back List</a>
+					</div>
+					<div class="col-md-6 d-flex">
+						<button class="btn btn-primary w-100">Save</button>
+					</div>
+				</div>
+
+			</form>
+		</div>
+	</div>
+</div>

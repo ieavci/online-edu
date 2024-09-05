@@ -1,0 +1,36 @@
+﻿@model List<ResultBannerDto>
+@{
+    ViewData["Title"] = "Banner Page";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@{
+	int count = 0;
+}
+<div class="py-3">
+	<a asp-action="CreateBanner" asp-area="Admin" asp-controller="Banner" class="btn btn-primary">Add New</a>
+</div>
+<table class="table table-hover">
+	<tr>
+		<th>#</th>
+		<th>Title</th>
+		<th>Image Url</th>		
+		<th>Actions</th>
+	</tr>
+	@foreach (var item in Model)
+	{
+		count++;
+		<tr>
+			<th>@count</th>
+			<td>@item.Title</td>
+			<td><img src="@item.ImageUrl" style="height:75px; width:75px;" /></td>			
+			<td>
+
+				<a asp-action="DeleteBanner" asp-route-id="@item.BannerId" asp-controller="Banner" asp-area="Admin" class="btn btn-outline-danger">Delete</a>
+				<a asp-action="UpdateBanner" asp-route-id="@item.BannerId" asp-controller="Banner" asp-area="Admin" class="btn btn-outline-info">Update</a>
+
+			</td>
+		</tr>
+	}
+</table>
+
