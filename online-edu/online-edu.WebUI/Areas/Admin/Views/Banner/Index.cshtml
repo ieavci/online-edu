@@ -26,7 +26,7 @@
 			<td><img src="@item.ImageUrl" style="height:75px; width:75px;" /></td>			
 			<td>
 
-				<a asp-action="DeleteBanner" asp-route-id="@item.BannerId" asp-controller="Banner" asp-area="Admin" class="btn btn-outline-danger">Delete</a>
+				<button onclick="DeleteBanner(@item.BannerId)" class="btn btn-outline-danger">Delete</button>
 				<a asp-action="UpdateBanner" asp-route-id="@item.BannerId" asp-controller="Banner" asp-area="Admin" class="btn btn-outline-info">Update</a>
 
 			</td>
@@ -34,3 +34,24 @@
 	}
 </table>
 
+<script>
+
+	function DeleteBanner(id) {
+
+
+		Swal.fire({
+			title: "Are you sure you want to delete?",
+			text: "You won't be able to revert this!",
+			icon: "warning",
+			showCancelButton: true,
+			confirmButtonColor: "#3085d6",
+			cancelButtonColor: "#d33",
+			cancelButtonText: "Cancel",
+			confirmButtonText: "Yes, delete it!"
+		}).then((result) => {
+			if (result.isConfirmed) {
+				window.location.href = "/Admin/Banner/DeleteBanner/" + id;
+			}
+		});
+	}
+</script>
