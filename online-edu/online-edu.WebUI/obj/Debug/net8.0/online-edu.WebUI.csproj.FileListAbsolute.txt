@@ -225,3 +225,5 @@ C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.WebUI\bin\Debug
 C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.WebUI\obj\Debug\net8.0\online-edu.WebUI.csproj.AssemblyReference.cache
 C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.WebUI\obj\Debug\net8.0\online-e.C65FB861.Up2Date
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.WebUI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\iavcc\Documents\GitHub\online-edu\online-edu\online-edu.WebUI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

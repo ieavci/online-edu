@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{430EBDA7-0B74-414B-92C4-9EE843C9525B}|online-edu.WebUI\\online-edu.WebUI.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{430EBDA7-0B74-414B-92C4-9EE843C9525B}|online-edu.WebUI\\online-edu.WebUI.csproj|solutionrelative:online-edu.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{430EBDA7-0B74-414B-92C4-9EE843C9525B}|online-edu.WebUI\\online-edu.WebUI.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.webui\\areas\\admin\\views\\blogcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{430EBDA7-0B74-414B-92C4-9EE843C9525B}|online-edu.WebUI\\online-edu.WebUI.csproj|solutionrelative:online-edu.webui\\areas\\admin\\views\\blogcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430EBDA7-0B74-414B-92C4-9EE843C9525B}|online-edu.WebUI\\online-edu.WebUI.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.webui\\areas\\admin\\controllers\\blogcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430EBDA7-0B74-414B-92C4-9EE843C9525B}|online-edu.WebUI\\online-edu.WebUI.csproj|solutionrelative:online-edu.webui\\areas\\admin\\controllers\\blogcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430EBDA7-0B74-414B-92C4-9EE843C9525B}|online-edu.WebUI\\online-edu.WebUI.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.webui\\validators\\blogcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430EBDA7-0B74-414B-92C4-9EE843C9525B}|online-edu.WebUI\\online-edu.WebUI.csproj|solutionrelative:online-edu.webui\\validators\\blogcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430EBDA7-0B74-414B-92C4-9EE843C9525B}|online-edu.WebUI\\online-edu.WebUI.csproj|c:\\users\\iavcc\\documents\\github\\online-edu\\online-edu\\online-edu.webui\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430EBDA7-0B74-414B-92C4-9EE843C9525B}|online-edu.WebUI\\online-edu.WebUI.csproj|solutionrelative:online-edu.webui\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +35,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "online-edu.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "online-edu.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwOoAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\Areas\\Admin\\Views\\BlogCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "online-edu.WebUI\\Areas\\Admin\\Views\\BlogCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\Areas\\Admin\\Views\\BlogCategory\\Index.cshtml",
+              "RelativeToolTip": "online-edu.WebUI\\Areas\\Admin\\Views\\BlogCategory\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T18:28:06.854Z",
+              "WhenOpened": "2024-09-12T13:25:22.334Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "RelativeDocumentMoniker": "online-edu.WebUI\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "RelativeToolTip": "online-edu.WebUI\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:31:34.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogCategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\Validators\\BlogCategoryValidator.cs",
+              "RelativeDocumentMoniker": "online-edu.WebUI\\Validators\\BlogCategoryValidator.cs",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\Validators\\BlogCategoryValidator.cs",
+              "RelativeToolTip": "online-edu.WebUI\\Validators\\BlogCategoryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:07:56.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "online-edu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\iavcc\\Documents\\GitHub\\online-edu\\online-edu\\online-edu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "online-edu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:40:51.939Z"
             }
           ]
         }
