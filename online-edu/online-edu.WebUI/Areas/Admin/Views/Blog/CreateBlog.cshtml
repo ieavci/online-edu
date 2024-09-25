@@ -1,0 +1,68 @@
+﻿@model CreateBlogDto
+
+@{
+    ViewData["Title"] = "Create Blog";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container">
+	<div class="row justify-content-center">
+		<div class="col-12">
+			<form method="post">
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Title : </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" name="Title" asp-for="Title" class="form-control" />
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Content : </label>
+					</div>
+					<div class="col-md-10">
+						<textarea asp-for="Content" class="form-control" rows="5"></textarea>
+					</div>
+				</div>
+				
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Image URL : </label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" name="ImageUrl" asp-for="ImageUrl" class="form-control" />
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">Blog Date: </label>
+					</div>
+					<div class="col-md-10">
+						<input type="date" name="BlogDate" asp-for="BlogDate" class="form-control"  />
+					</div>
+				</div>
+				<div class="form-row mb-3">
+					<div class="col-md-2 text-right">
+						<label style="margin-top:5px">BlogCategory : </label>
+					</div>
+					<div class="col-md-10">
+						<select class="form-select">
+							
+						</select>
+					</div>
+				</div>				
+				
+				<div class="form-row mb-3 justify-content-center py-5">
+					<div class="col-md-6 d-flex">
+						<a class="class= btn btn-secondary w-100" href="@nameof(Index)">Back List</a>
+					</div>
+					<div class="col-md-6 d-flex">
+						<button class="btn btn-primary w-100">Save</button>
+					</div>
+				</div>
+
+			</form>
+		</div>
+	</div>
+</div>

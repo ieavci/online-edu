@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using online_edu.Business.Abstract;
 using online_edu.Business.Concrete;
 using online_edu.DataAccess.Abstract;
+using online_edu.DataAccess.Concrede;
 using online_edu.DataAccess.Context;
 using online_edu.DataAccess.Repositories;
 
@@ -12,6 +13,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 builder.Services.AddScoped(typeof(IRepository<>),typeof(GenericRepository<>));
 builder.Services.AddScoped(typeof(IGenericService<>),typeof(GenericManager<>));
+builder.Services.AddScoped<IBlogRepository, BlogRepository>();
+builder.Services.AddScoped<IBlogService, BlogManager>();
 builder.Services.AddDbContext<online_eduContext>(options =>
 {
 	options.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection"));
